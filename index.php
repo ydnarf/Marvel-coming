@@ -28,6 +28,5 @@ var_dump($data);
     body {
         display: grid;
         place-content: center;
-        color: white;
     }
 </style>
